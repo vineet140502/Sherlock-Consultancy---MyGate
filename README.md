@@ -11,4 +11,5 @@ And at last, a video pitch of the solution that was judged by the heads of the C
 
 Including the final results shared by the club on Linkedin [here](https://www.linkedin.com/posts/caciitg_marketing-strategy-startup-activity-6707156104612331521-_Fic).
 
-
+![alt-text](https://github.com/vineet140502/SherlockConsultancy-MyGate/blob/main/results1.jpeg)
+![alt-text](https://github.com/vineet140502/SherlockConsultancy-MyGate/blob/main/results2.jpeg)
